@@ -20,10 +20,12 @@ You should only need to change two lines of code to fix this problem!
 finished_program = False
 
 # Count to 10 Program
+
 i = 0
+
 while finished_program == False:
 
-    i <= 0
+    
 
     print(f'Testing i = {i}')
 
@@ -31,3 +33,5 @@ while finished_program == False:
         finished_program = True
 
     i += 1
+
+# %%
